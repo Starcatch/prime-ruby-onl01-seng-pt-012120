@@ -4,5 +4,6 @@ def prime?(number)
     elsif number == 2 
     true 
   else 
-   
+    
+  end  
 end 
